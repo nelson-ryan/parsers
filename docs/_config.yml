@@ -1,0 +1,6 @@
+title: Syntactic Parsing
+tagline: Stanza, SpaCy
+description: Syntactic parsing (constituency and dependency) with Stanza and spaCy
+show_downloads: false
+theme: jekyll-theme-midnight
+
